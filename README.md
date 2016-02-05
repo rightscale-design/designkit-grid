@@ -1,6 +1,6 @@
 # Designkit Grid
 
-Sass module for simple css grids.
+Sass module for a simple CSS grid.
 
 ## Install
 
