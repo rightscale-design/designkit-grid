@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 .container {
   @include margin(null auto null auto);
   @include padding(null 0.9375rem null 0.9375rem);

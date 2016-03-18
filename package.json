@@ -1,8 +1,7 @@
 {
   "name": "designkit-grid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sass module for a simple CSS grid",
-  "main": "index.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rightscale-design/designkit-grid.git"
