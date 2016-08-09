@@ -1,6 +1,6 @@
 {
   "name": "designkit-grid",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sass module for a simple CSS grid.",
   "repository": {
     "type": "git",
@@ -10,16 +10,27 @@
     "name": "Jason Melgoza",
     "email": "jason@rightscale.com"
   },
+  "main": "css/designkit-grid.css",
+  "style": "css/designkit-grid.css",
+  "scss": "src/index.scss",
+  "files": [
+    "src",
+    "css"
+  ],
+  "keywords": [
+    "css",
+    "Sass"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rightscale-design/designkit-grid/issues"
   },
   "homepage": "https://github.com/rightscale-design/designkit-grid#readme",
   "devDependencies": {
-    "bourbon": "^4.2.6",
-    "http-server": "^0.8.5",
-    "node-sass": "^3.4.2",
-    "nodemon": "^1.8.1"
+    "bourbon": "^4.2.7",
+    "http-server": "^0.9.0",
+    "node-sass": "^3.8.0",
+    "nodemon": "^1.10.0"
   },
   "scripts": {
     "build-css": "./bin/build-css",
